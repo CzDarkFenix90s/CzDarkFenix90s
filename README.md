@@ -74,14 +74,9 @@ I'm a passionate Full Stack Developer in training, constantly exploring new tech
     </td>
   </tr>
 </table>
-
 </div>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CzDarkFenix90s&theme=tokyonight&background=0D1117&stroke=38BDF8&ring=FB7185&fire=FB7185&currStreakNum=FFFFFF&sideNums=38BDF8&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=FFFFFF" alt="GitHub Streak" />
-</div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CzDarkFenix90s&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF&icon_color=FB7185&border_color=38BDF8&hide_border=false" alt="GitHub Stats" />
