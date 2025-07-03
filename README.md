@@ -89,7 +89,7 @@ I'm a passionate Full Stack Developer in training, constantly exploring new tech
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=CzDarkFenix90s&theme=react-dark&bg_color=0D1117&color=38BDF8&line=FB7185&point=A78BFA&area=true&area_color=FB7185&hide_border=false&border_color=38BDF8" alt="Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=CzDarkFenix90s&theme=react-dark&bg_color=0D1117&color=c245bd&line=FB7185&point=A78BFA&area=true&area_color=FB7185&hide_border=false&border_color=38BDF8" alt="Activity Graph" />
 </div>
 
 ## 📚 Learning Journey
