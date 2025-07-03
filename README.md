@@ -8,7 +8,6 @@
 
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Work-38BDF8?style=for-the-badge&logo=opencollective&logoColor=white)](https://github.com/CzDarkFenix90s)
 [![Location](https://img.shields.io/badge/Location-Ecuador-FB7185?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Ecuador)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-A78BFA?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alexispaz567890@gmail.com)
 
 > *"Dreaming of working on big projects and collaborative teams."*
 
