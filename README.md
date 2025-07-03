@@ -92,25 +92,6 @@ I'm a passionate Full Stack Developer in training, constantly exploring new tech
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=CzDarkFenix90s&theme=react-dark&bg_color=0D1117&color=c245bd&line=FB7185&point=A78BFA&area=true&area_color=FB7185&hide_border=false&border_color=38BDF8" alt="Activity Graph" />
 </div>
 
-## 📚 Learning Journey
-
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/CzDarkFenix90s/curso-java" target="_blank" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=java" width="65" height="65" style="filter: drop-shadow(0 0 10px rgba(25, 118, 210, 0.6));" />
-      </a>
-      <br>Java Course
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/CzDarkFenix90s/curso-ts" target="_blank" rel="noopener noreferrer">
-        <img src="https://skillicons.dev/icons?i=ts" width="65" height="65" style="filter: drop-shadow(0 0 10px rgba(0, 122, 204, 0.6));" />
-      </a>
-      <br>TypeScript Course
-    </td>
-  </tr>
-</table>
-
 ## 🤝 Connect With Me
 
 <div align="center" style="margin: 20px 0;">
